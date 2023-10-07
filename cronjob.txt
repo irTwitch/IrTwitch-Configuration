@@ -1,0 +1,2 @@
+* * * * * wget --quiet -O /dev/null http://DOMAIN.fun/main_cronjob.php
+0 */6 * * * wget --quiet -O /dev/null http://DOMAIN.fun/cron_ttoken.php
